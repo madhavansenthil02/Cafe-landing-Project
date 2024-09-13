@@ -23,9 +23,8 @@ header {
 
 main {
     background-color: white;
-    width: 60%;
-    position: relative;
-    left: 270px;
+    width: 70%;
+    margin: auto;
 }
 
 .image1 {
@@ -168,8 +167,6 @@ span {
 
     main {
         width: 95%;
-        position: relative;
-        left: 0px;
         margin: 10px;
     }
 
